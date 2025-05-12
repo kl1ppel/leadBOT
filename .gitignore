@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# dependencies
+.venv/
+
+# IDE/editor
+.vscode/
+
+# dados sensíveis
+.env
