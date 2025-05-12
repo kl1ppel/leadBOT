@@ -1,12 +1,4 @@
-# 1. Crie o arquivo README.md
-New-Item -Name README.md -ItemType File
 
-# 2. Abra no seu editor (pode usar o VSCode, Notepad, Nano etc)
-code README.md      # se você tiver o VSCode CLI instalado
-# — ou —
-notepad README.md   # no Windows puro
-
-# 3. Cole algo como isto dentro do README.md:
 
 # 🤖 leadBOT
 **Bot de automação de mensagens para WhatsApp Business**
